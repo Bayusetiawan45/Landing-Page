@@ -42,15 +42,15 @@ export default function Navbar() {
               </Link>
             ))}
           </HStack>
-          <Box bg="#fffe55" p={5} fontSize="1.2rem" fontWeight="semibold">
+          <Box display={{ base: "none", md: "flex" }} bg="#fffe55" p={5} fontSize="1.2rem" fontWeight="semibold">
             (021) 8583944
           </Box>
         </HStack>
       </Flex>
 
       {isOpen ? (
-        <Box pb={4} display={{ md: "none" }}>
-          <Stack as={"nav"} spacing={4}>
+        <Box display={{ md: "none" }}>
+          <Stack as={"nav"} spacing={4} bg="#fffa44" p={5} mt={10}>
             {link.map((link, index) => (
               <Link
                 key={index}
@@ -60,7 +60,7 @@ export default function Navbar() {
                 offset={link.offset}
                 duration={500}
               >
-                <Text _hover={{ color: "#fffa44" }} cursor="pointer">
+                <Text cursor="pointer">
                   {link.label}
                 </Text>
               </Link>

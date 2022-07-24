@@ -9,7 +9,7 @@ const AppCard = ({ name, position, dir, src }) => {
       _hover={{ shadow: "lg", transform: "translateY(-1px)" }}
       bg="#fffe55"
       height="max-content"
-      w="max-content"
+      width="20rem"
     >
       <Image maxW="100%" src={src} />
       <Stack flexDir={dir} p={5}>

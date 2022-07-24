@@ -27,7 +27,7 @@ const Footer = () => {
         >
           <Image src="./logo.png" />
         </Flex>
-        <Flex fontSize="32px" transform="rotate(-90deg)" justify="center">
+        <Flex fontSize="28px" transform="rotate(-90deg)" justify="center">
           (021) 8583944
         </Flex>
         <Stack>

@@ -24,15 +24,15 @@ const Banner = () => {
           <Heading
             textTransform="uppercase"
             pos="relative"
-            bottom="-7rem"
+            bottom={{base:"-3.5rem", lg:"-7rem"}}
             fontWeight="400"
             maxW="70vw"
-            fontSize="8xl"
+            fontSize={{base:"5xl", lg:"8xl"}}
           >
             we assist you in solving tomorrow’s <br/>
             <span style={{ color: "white" }}>problems today</span>
           </Heading>
-          <HStack pos="relative" bottom="-7rem" spacing={5} align="end">
+          <HStack pos="relative" bottom={{base:"-2rem", lg:"-7rem"}} spacing={5} align="end">
             <Text textTransform="uppercase" fontWeight="semibold">
               about us
             </Text>

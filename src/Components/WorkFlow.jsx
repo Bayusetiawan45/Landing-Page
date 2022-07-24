@@ -5,7 +5,7 @@ import AppButton from "./Components/AppButton";
 const WorkFlow = () => {
   return (
     <Stack px="4rem" py="5rem" flexDir="column" id="workFlow">
-      <Heading textTransform="uppercase" fontWeight="400" fontSize="7xl" mb={5}>
+      <Heading textTransform="uppercase" fontWeight="400" fontSize="7xl" mb={5} textAlign={{base:"center", lg:"start"}}>
         WORKFLOW
       </Heading>
       <SimpleGrid columns={[1, null, 2]} spacing="40px">
