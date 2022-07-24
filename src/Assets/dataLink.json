@@ -1,0 +1,32 @@
+[
+    {
+        "label":"Home",
+        "to":"home",
+        "offset":0
+    },
+    {
+        "label":"Services",
+        "to":"services",
+        "offset":-100
+    },
+    {
+        "label":"Work Flow",
+        "to":"workFlow",
+        "offset":0
+    },
+    {
+        "label":"Portfolio",
+        "to":"portfolio",
+        "offset":0
+    },
+    {
+        "label":"About Us",
+        "to":"aboutUs",
+        "offset":-120
+    },
+    {
+        "label":"Our Value",
+        "to":"ourValue",
+        "offset":0
+    }
+]

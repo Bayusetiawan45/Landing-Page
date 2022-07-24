@@ -1,0 +1,26 @@
+[
+    {
+        "name":"SAM FLEX",
+        "position": "Director",
+        "src":"./9.png",
+        "dir":"column"
+    },
+    {
+        "name":"KATE LARSON",
+        "position": "Manager",
+        "src":"./10.png",
+        "dir":"column"
+    },
+    {
+        "name":"BOBBY FISH",
+        "position": "Designer",
+        "src":"./11.png",
+        "dir":"row"
+    },
+    {
+        "name":"AMANDA JAMES",
+        "position": "Programmer",
+        "src":"./12.png",
+        "dir":"column"
+    }
+]

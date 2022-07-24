@@ -1,0 +1,32 @@
+[
+    {
+        "title":"Custom WEB Development",
+        "projectName":"HANA BANK Website",
+        "list1":"2017 Webby Award Winner for Best Shopping App",
+        "list2":"DSC was reportedly acquired by Unilever for $1 billion",
+        "list3":"4.8 Google Play Reviews",
+        "list4":"97% of app users would recommend the DSC app to a friend",
+        "src":"./5.png",
+        "dir":"row"
+    },
+    {
+        "title":"DESIGN UI/UX",
+        "projectName":"BASF WEB DESIGN",
+        "list1":"2017 Webby Award Winner for Best Shopping App",
+        "list2":"DSC was reportedly acquired by Unilever for $1 billion",
+        "list3":"4.8 Google Play Reviews",
+        "list4":"97% of app users would recommend the DSC app to a friend",
+        "src":"./6.png",
+        "dir":"row-reverse"
+    },
+    {
+        "title":"E-Commerce Development",
+        "projectName":"Open Fashion Mobile App",
+        "list1":"2017 Webby Award Winner for Best Shopping App",
+        "list2":"DSC was reportedly acquired by Unilever for $1 billion",
+        "list3":"4.8 Google Play Reviews",
+        "list4":"97% of app users would recommend the DSC app to a friend",
+        "src":"./7.png",
+        "dir":"row"
+    }
+]
